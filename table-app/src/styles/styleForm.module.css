@@ -1,0 +1,22 @@
+.name {
+    margin-bottom: 15px;
+}
+
+.surname {
+    margin-bottom: 15px;
+}
+
+.label {
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-top: 7px;
+
+}
+
+.checkGroup {
+    border: solid 1px lightgrey;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
